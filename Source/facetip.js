@@ -4,7 +4,7 @@ description: Facebook style tooltips
 
 license: WTFPL
 
-author: Faruk Can Bilir
+authors: Faruk Can Bilir
 
 requires: core/1.3: '*'
 
