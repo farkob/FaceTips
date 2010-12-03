@@ -7,6 +7,8 @@ license: WTFPL
 author: Faruk Can Bilir
 
 requires: core/1.3: '*'
+
+provides: FaceTip
 ...
 */
 
