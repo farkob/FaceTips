@@ -20,7 +20,7 @@ var FaceTip = new Class({
     },
 
     initialize: function(els, options) {
-        this.options = Object.append(this.options, options || {});
+        Object.append(this.options, options || {});
         els.addEvents({
             'mouseenter': function(e) {
                 this.enter($(e.target));
